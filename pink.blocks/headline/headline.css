@@ -1,8 +1,7 @@
 .headline {
-    background-color: pink;
+    background: #9D39A9 url(./bg-potter.jpg) no-repeat right top;
 }
 
-.headline__header {
-    color: pink;
+.headline__form {
+    background: rgba(0,0,0,0.3);
 }
-

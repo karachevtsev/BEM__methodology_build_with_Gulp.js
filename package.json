@@ -12,9 +12,13 @@
   },
   "homepage": "https://github.com/karachevtsev/bem-methodology-gulp#readme",
   "devDependencies": {
+    "autoprefixer-core": "^6.0.1",
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
-    "gulp-rename": "^1.2.2"
+    "gulp-css-url-adjuster": "^0.2.3",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "html2bl": "github:dab/html2bl"
   }
 }
