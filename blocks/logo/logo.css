@@ -1,0 +1,18 @@
+.logo {
+    margin: 0;
+    padding: 20px 10px 10px 0;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.logo__link {
+    color: #44b;
+    text-decoration: none;
+}
+
+.logo__link:hover {
+    color: #fd5;
+    transition: color .55s ease-out;
+}
