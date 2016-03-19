@@ -1,0 +1,20 @@
+{
+  "name": "bem-methodology-gulp",
+  "version": "1.0.0",
+  "description": "Build BEM-project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karachevtsev/bem-methodology-gulp.git"
+  },
+  "author": "artem karachevtsev",
+  "bugs": {
+    "url": "https://github.com/karachevtsev/bem-methodology-gulp/issues"
+  },
+  "homepage": "https://github.com/karachevtsev/bem-methodology-gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
